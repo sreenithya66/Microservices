@@ -1,0 +1,5 @@
+com/herffjonestest/department/controller/DepartmentController.class
+com/herffjonestest/department/DepartmentServiceApplication.class
+com/herffjonestest/department/entity/Department.class
+com/herffjonestest/department/service/DepartmentService.class
+com/herffjonestest/department/repository/DepartmentRepository.class
